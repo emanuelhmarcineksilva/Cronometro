@@ -1,2 +1,2 @@
-# Cron-metro
-é um cronômetro simples
+# Cronômetro
+É um cronômetro simples.
